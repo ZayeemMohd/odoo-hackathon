@@ -1,2 +1,3 @@
 # odoo-hackathon
-StackIt – A Minimal Q&amp;A Forum Platform
+Team Name: Raging Masters
+Problem Statement: StackIt – A Minimal Q&amp;A Forum Platform
